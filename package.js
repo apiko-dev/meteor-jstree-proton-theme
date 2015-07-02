@@ -7,7 +7,7 @@ Package.describe({
 
 Package.onUse(function(api) {
 
-  api.use('twbs:bootstrap', 'client');
+  api.use('twbs:bootstrap@3.3.5', 'client');
 
   api.addFiles([
     'theme/style.css'
