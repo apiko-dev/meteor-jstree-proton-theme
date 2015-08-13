@@ -1,7 +1,7 @@
 Package.describe({
   name: 'jss:jstree-proton-theme',
   summary: 'Bootstrap theme for jss:jstree.',
-  version: '3.1.1',
+  version: '3.1.2',
   git: 'https://github.com/JSSolutions/meteor-jstree-proton-theme'
 });
 
